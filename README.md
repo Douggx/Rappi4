@@ -37,6 +37,4 @@ O projeto foi pensado como mobile first.
 
 ## Imagens:
 ![01](https://user-images.githubusercontent.com/103120880/183503237-813076c4-c641-4d3d-a351-1964c0c67e00.jpg)
-![02](https://user-images.githubusercontent.com/103120880/183503238-e0eb039d-7972-4054-bb07-598fe17fb3b1.jpg)
-![03](https://user-images.githubusercontent.com/103120880/183503234-29810b25-19c6-4e5c-963a-da71a2fd1227.jpg)
 
